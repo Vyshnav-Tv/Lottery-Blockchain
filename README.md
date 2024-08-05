@@ -1,4 +1,4 @@
-Lottery Contract
+Lottery Contract:-
 This is a decentralized lottery application built on the Ethereum blockchain using Solidity. Participants can enter the lottery by sending 1 ether to the contract. Once there are at least 3 participants, the manager can trigger the selection of a random winner, who will receive the entire balance of the contract.
 
 Features
